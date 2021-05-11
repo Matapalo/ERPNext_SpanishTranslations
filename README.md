@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (ERPNext Translations in Español Latino)
 
 You can use the [editor on GitHub](https://github.com/Matapalo/ERPNext_SpanishTranslations/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
